@@ -15,7 +15,7 @@ Voici un liste non-exhaustive de plantes utiles et décoratives pour attirer nos
 - [Mahonia](https://www.jardiner-malin.fr/fiche/mahonia.html)
 - Rhododendron précoce
 
-Février - Mars
+## Février - Mars
 
 - Amandier 
 - Bergénia
