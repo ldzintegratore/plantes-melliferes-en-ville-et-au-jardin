@@ -1,27 +1,26 @@
 # Quelques plantes mellifères en ville et au jardin
 
-Voici un liste non-exhaustive de plantes utiles et décoratives pour attirer nos pollinisateurs. Les liens dirigent vers des fiches de chez jardiner-malin.fr pour se faire une idée simplement.
+Voici une liste non-exhaustive de plantes utiles et décoratives pour attirer nos pollinisateurs. Les liens dirigent vers des fiches de chez jardiner-malin.fr pour se faire une idée simplement.
 
 ## Janvier - Février
 
+- [Aconit d'hiver](https://www.jardiner-malin.fr/fiche/eranthis-hyemalis-aconith-hiver-helleborine.html)
 - [Ajonc](https://www.jardiner-malin.fr/fiche/ajonc-fleurs-entretien-arrosage.html)
 - Bruyère d'hiver
 - [Buddleja ou arbre à papillons](https://www.jardiner-malin.fr/fiche/buddleja-taille-entretien-plantatio.html)
 - Chèvrefeuille d'hiver
 - [Crocus](https://www.jardiner-malin.fr/fiche/crocus-plantation.html)
 - [Cyclamen coum](https://www.jardiner-malin.fr/fiche/cyclamen-coum.html)
-- Eranthe
 - [Jasmin d'hiver](https://www.jardiner-malin.fr/fiche/jasmin-hiver.html)
 - [Mahonia](https://www.jardiner-malin.fr/fiche/mahonia.html)
 - Rhododendron précoce
 
 ## Février - Mars
 
-- Amandier 
-- Bergénia
+- [Amandier](https://www.jardiner-malin.fr/fiche/amandier-taille-plantation.html) 
+- [Bergénia](https://www.jardiner-malin.fr/fiche/bergenia.html)
 - Cornouiller mâle
-- Corylopsis
-- Cornouiller mâle
+- [Corylopsis](https://www.jardiner-malin.fr/fiche/corylopsis.html)
 - Cornouiller officinal
 - Cyprés d'Italie
 - Daphné odorant
@@ -29,12 +28,12 @@ Voici un liste non-exhaustive de plantes utiles et décoratives pour attirer nos
 - Hellebore d'orient
 - [Jacinthe](https://www.jardiner-malin.fr/fiche/jacinthe.html)
 - Laurier-thym
-- Mimosa
+- [Mimosa](https://www.jardiner-malin.fr/fiche/mimosa.html)
 - Noisetier commun
 - Noisetier de Byzance
 - Poirier de Chine
 - Prunier amérindien
-- Perce-neige
+- [Perce-neige](https://www.jardiner-malin.fr/fiche/perce-neige.html)
 - Saule
 
 ## Mars-Avril  
@@ -164,14 +163,14 @@ Voici un liste non-exhaustive de plantes utiles et décoratives pour attirer nos
 
 ## Octobre - Novembre  
 
-- Chrysanthème
+- [Chrysanthème](https://www.jardiner-malin.fr/fiche/chrysantheme.html)
 - [Cosmos](https://www.jardiner-malin.fr/fiche/cosmos.html)
 - Lierre commun
 - Sauge des marais
 
 ## Novembre - Décembre  
 
-- Arbousier
+- [Arbousier](https://www.jardiner-malin.fr/fiche/arbousier-taille-plantation.html)
 - Camélia d'automne
 - Chimonanthe précoce
 - Mahonia hybride
