@@ -1,6 +1,8 @@
 # Quelques plantes mellifères en ville et au jardin
 
-Voici une liste non-exhaustive de plantes utiles et décoratives pour attirer nos pollinisateurs. Les liens dirigent vers des fiches de chez jardiner-malin.fr pour se faire une idée simplement.
+Voici une liste non-exhaustive de plantes utiles et décoratives pour attirer nos pollinisateurs. 
+
+Source : jardiner-malin.fr
 
 ## Janvier - Février
 
