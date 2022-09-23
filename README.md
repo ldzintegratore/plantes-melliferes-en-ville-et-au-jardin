@@ -174,7 +174,7 @@ Source : jardiner-malin.fr
 
 - [Arbousier](https://www.jardiner-malin.fr/fiche/arbousier-taille-plantation.html)
 - Camélia d'automne
-- Chimonanthe précoce
-- Mahonia hybride
+- [Chimonanthe précoce](https://www.jardiner-malin.fr/fiche/chimonanthe-chimonanthus.html)
+- [Mahonia hybride](https://www.jardiner-malin.fr/fiche/mahonia.html)
 - Néflier du Japon
 - Viorne de bodnant
